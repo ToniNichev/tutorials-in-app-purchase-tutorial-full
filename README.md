@@ -1,6 +1,6 @@
 # In-App-Purchase-All
 
-The tutorial: https://www.toni-develops.com/2024/01/09/in-app-purchase-with-server-to-server-notifications/
+Full tutorial here: https://www.toni-develops.com/2024/01/09/in-app-purchase-with-server-to-server-notifications/
 
 Contains these projects:
 * iOS-App
