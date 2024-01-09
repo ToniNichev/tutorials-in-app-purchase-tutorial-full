@@ -1,0 +1,148 @@
+{
+  "identifier" : "A551DA39",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "6475330806",
+      "localizations" : [
+        {
+          "description" : "Brake Pads",
+          "displayName" : "Brake Pads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "BrakePads",
+      "referenceName" : "Brake pads",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "6475326457",
+      "localizations" : [
+        {
+          "description" : "Fuel for my virtual cars",
+          "displayName" : "Fuel",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "InAppPurchaseTutorialToniconsumableFuel",
+      "referenceName" : "InAppPurchaseTutorialToni-consumable-fuel",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "6475326591",
+      "localizations" : [
+        {
+          "description" : "Oil for my virtual car",
+          "displayName" : "Oil",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "InAppPurchaseTutorialToniConsumableOil",
+      "referenceName" : "InAppPurchaseTutorialToni-consumable-oil",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6475326521",
+    "_developerTeamID" : "M94NPAFUX3",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 726166143.10234499,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21429665",
+      "localizations" : [
+
+      ],
+      "name" : "Monthly renewals",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6475330627",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "In App Purchase Renewal Pro",
+              "displayName" : "Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "InAppPurchaseRenewalPro",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro",
+          "subscriptionGroupID" : "21429665",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

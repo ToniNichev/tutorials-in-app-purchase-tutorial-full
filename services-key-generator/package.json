@@ -1,0 +1,20 @@
+{
+  "name": "app-store-server-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "start2": "node index2.js",
+    "getid": "node generate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apple/app-store-server-library": "^0.2.0",
+    "axios": "^1.6.5",
+    "jwt-decode": "^4.0.0"
+  }
+}

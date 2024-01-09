@@ -1,0 +1,17 @@
+{
+  "name": "app-store-server-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "sendTestNotification": "node sendTestNotification.js",
+    "verify": "node verify.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apple/app-store-server-library": "^1.0.0"
+  }
+}
