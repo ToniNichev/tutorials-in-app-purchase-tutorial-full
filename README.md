@@ -8,8 +8,8 @@ Contains these projects:
 
 
 
-## services-key-generator
-
+# services-key-generator
+Services key generator is used to generate API keys for App store Connect API and App Store Server Api
 
 ## How to install
 
