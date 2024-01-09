@@ -32,9 +32,11 @@ For App Store Server Api you will need a key created under In-App Purchase
 
 ![How to generate keys](./how-to-create-keys.png?raw=true "How to generate keys")
 
-#### 3. Create `./keys folder and add private keys there
+#### 3. Create application in appstore connect: https://appstoreconnect.apple.com/apps
 
-#### 4. Create keys.js and add keys info there 
+#### 4. Create `./keys folder and add private keys there
+
+#### 5. Create keys.js and add keys info there, and replace bundleId with your own from part 3.
 
 ```
 
