@@ -1,31 +1,40 @@
-#In-App-Purchase-All
+# In-App-Purchase-All
+
+Contains these projects:
+* iOS-App
+* services-key-generator
+* app-store-server-library
+* backend-server
 
 
 
-# How to install
+## services-key-generator
 
-## 1. Install dependencies
+
+## How to install
+
+### 1. Install dependencies
 ```
 yarn install
 ```
 
-## 2. Generate keys
+### 2. Generate keys
 
-### App store Connect API
+#### App store Connect API
 https://developer.apple.com/documentation/appstoreconnectapi
 
 For App store Connect APIs you will need a key created under App Store Connect API
 
-### App Store Server Api
+#### App Store Server Api
 https://developer.apple.com/documentation/appstoreserverapi
 
 For App Store Server Api you will need a key created under In-App Purchase
 
 ![How to generate keys](./how-to-create-keys.png?raw=true "How to generate keys")
 
-### 3. Create `./keys folder and add private keys there
+#### 3. Create `./keys folder and add private keys there
 
-### 4. Create keys.js and add keys info there 
+#### 4. Create keys.js and add keys info there 
 
 ```
 
