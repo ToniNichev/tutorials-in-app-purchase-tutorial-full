@@ -3,9 +3,9 @@
 Full tutorial here: https://www.toni-develops.com/2024/01/09/in-app-purchase-with-server-to-server-notifications/
 
 Contains these projects:
-* iOS-App
-* services-key-generator
-* app-store-server-library
+* iOS-App - to test in-app purchase
+* services-key-generator - to generate JWT for app store connect, and app store server APIs.
+* app-store-server-library - to request test server-to-server notification [Using Apple library](https://developer.apple.com/documentation/appstoreserverapi/simplifying_your_implementation_by_using_the_app_store_server_library)
 * backend-server
 
 
